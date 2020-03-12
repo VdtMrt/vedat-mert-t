@@ -1,0 +1,29 @@
+{
+  "name": "vedat-mert-t",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vedat": "echo 'Benim adım vedat'",
+    "start": "node index"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Vedat Mert Turşucu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.4",
+    "nodemailer": "^6.4.5",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VdtMrt/vedat-mert-t.git"
+  }
+}
